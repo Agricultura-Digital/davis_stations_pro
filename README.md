@@ -26,7 +26,6 @@ C. 3 Pilas duracel tipo C.
 D. 1 Pc con Windows y puerto usb.
 
 <div id='id3' />
-
 ## 3. Pasos para canción dejar operativa la estación.
 
 A. Instalar software Weatherlink en pc, probablemente el instalador requerirá la instalación de librerías de visual c++, por lo que es necesario tener acceso a internet para descargar instaladores.
@@ -41,9 +40,7 @@ E. Conectar el notebook al registrador de datos instalado en la consola. Asegure
 
 F. Configurar el software Weatherlink, puede seguir los pasos  descritos en la [sección 6](#id6).
 
-
 <div id='id4' />
-
 ## 4. Registradores de datos WeatherLink.
 
 Los registradores de datos WeatherLink® permiten conectar un *Vantage Pro2™* o *Vantage Vue®* consola o *Weather Envoy™* a su computadora personal para que pueda almacenar, ver, trazar, analizar, exportar e imprimir datos meteorológicos recopilados por la estación meteorológica.
@@ -53,13 +50,11 @@ sus datos en cualquier dispositivo conectado, o con la aplicación móvil Weathe
 Footer
 
 <div id='id5' />
-
 ## 5. Configuración de consola.
 
 Los registradores...
 
 <div id='id6' />
-
 ## 6. Configuración de software Weatherlink.
 
 Los registradores...
