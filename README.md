@@ -32,15 +32,15 @@ D. 1 Pc con Windows y puerto usb.
 
 A. Instalar software Weatherlink en pc, probablemente el instalador requerirá la instalación de librerías de visual c++, por lo que es necesario tener acceso a internet para descargar instaladores.
 
-  B. Intalar el Registrador de datos WeatherLink en la consola.
+B. Intalar el Registrador de datos WeatherLink en la consola.
 
-  C. Instalar las 3 pilas tipo C en la consola.
+C. Instalar las 3 pilas tipo C en la consola.
 
-  D. Encender y configurar la consola siguiendo los pasos descritos en la [sección 5](#id5).
+D. Encender y configurar la consola siguiendo los pasos descritos en la [sección 5](#id5).
 
-  E. Conectar el notebook al registrador de datos instalado en la consola. Asegurese de que la consola se haya iniciado con el registrador de datos instalado.
+E. Conectar el notebook al registrador de datos instalado en la consola. Asegurese de que la consola se haya iniciado con el registrador de datos instalado.
 
-  F. Configurar el software Weatherlink, puede seguir los pasos  descritos en la [sección 6](#id6).
+F. Configurar el software Weatherlink, puede seguir los pasos  descritos en la [sección 6](#id6).
 
 <div id='id4' />
 
