@@ -18,7 +18,8 @@ Vantage Pro2 es el modelo mas reciente  de las estaciones meteorológicas de Dav
 La consola permite visualizar todas las variables meteorológicas de forma simultánea y configurar la estación sin necesidad de un ordenador. Presenta un teclado y una  pantalla LCD de 15 x 9 cm con retroiluminación, para una lectura tanto de día como de noche. Es posible agregar consolas adicionales para visualizar la información en diferentes ubicaciones.
 
 <div id='id2' />
-## 2. Materiales e instrumentos requeridos
+
+## 2. Materiales e instrumentos requeridos.
 
 A. 1 Estacion Davis Vantage Pro2.
 B. 1 Registrador de datos WeatherLink (Para conexión PC-Netobook).
