@@ -22,8 +22,11 @@ La consola permite visualizar todas las variables meteorológicas de forma simul
 ## 2. Materiales e instrumentos requeridos.
 
 A. 1 Estacion Davis Vantage Pro2.
+
 B. 1 Registrador de datos WeatherLink (Para conexión PC-Netobook).
+
 C. 3 Pilas duracel tipo C.
+
 D. 1 Pc con Windows y puerto usb.
 
 <div id='id3' />
