@@ -35,19 +35,18 @@ B. Intalar el Registrador de datos WeatherLink en la consola.
 
 C. Instalar las 3 pilas tipo C en la consola.
 
-D. Encender y configurar la consola siguiendo los pasos descritos en la <div id='id5'>sección 5</div>.
+D. Encender y configurar la consola siguiendo los pasos descritos en la [sección 5](#id5).
 
 E. Conectar el notebook al registrador de datos instalado en la consola. Asegurese de que la consola se haya iniciado con el registrador de datos instalado.
 
-F. Configurar el software Weatherlink, puede seguir los pasos  descritos en la <div id='id6'>sección 6</div>.
+F. Configurar el software Weatherlink, puede seguir los pasos  descritos en la [sección 6](#id6).
 
 
 <div id='id4' />
 
 ## 4. Registradores de datos WeatherLink.
 
-Los registradores de datos WeatherLink® permiten conectar un *Vantage Pro2™* o *Vantage Vue®* consola o *Weather Envoy™* a su computadora personal para que pueda almacenar, ver,
-trazar, analizar, exportar e imprimir datos meteorológicos recopilados por la estación meteorológica.
+Los registradores de datos WeatherLink® permiten conectar un *Vantage Pro2™* o *Vantage Vue®* consola o *Weather Envoy™* a su computadora personal para que pueda almacenar, ver, trazar, analizar, exportar e imprimir datos meteorológicos recopilados por la estación meteorológica.
 
 También puede cargar sus datos en su página ownWeatherlink.com. No hay costo de cargar o abrir una cuenta de WeatherLink. A continuación, puede acceder
 sus datos en cualquier dispositivo conectado, o con la aplicación móvil WeatherLink, en tu teléfono inteligente
